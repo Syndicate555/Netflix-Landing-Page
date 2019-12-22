@@ -30,6 +30,17 @@ h4 {
     color: #fff;
 }
 
+#signature {
+    position: relative;
+    z-index: 2;
+    width: 65%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 a {
     color: #fff;
     text-decoration: none;
